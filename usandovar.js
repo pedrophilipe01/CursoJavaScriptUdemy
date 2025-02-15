@@ -18,8 +18,8 @@ function teste() {
 
 //escopo: local onde a variavel é visivel
 
-var cu = "predro"
-console.log(cu)
+var nome = "pedro"
+console.log(nome)
 
 function teste(){
     var pedro = 123

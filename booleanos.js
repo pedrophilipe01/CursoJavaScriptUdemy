@@ -1,13 +1,13 @@
 let isAtivo = false
-console.log(isAtivo);
+console.log(isAtivo); //literal falso
 
 isAtivo = true
-console.log(isAtivo)
+console.log(isAtivo) //literal verdadeiro
 
 isAtivo = 1
-console.log(!!isAtivo)
+console.log(!!isAtivo) //verdadeiro !!negação duas vezes é true ! é falso
 
-console.log("\n")
+console.log("\n")//pular linha
 
 console.log('os verdadeiros...\n')
 console.log(!!5.2)

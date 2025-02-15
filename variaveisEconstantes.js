@@ -1,8 +1,8 @@
-var a=2
-let b=3 
-
-var a=30
-b=40
+var a = 2 //variavel 
+let b = 3 //variavel usar let(mais moderno) 
+ 
+var a = 30 //pode redeclarar
+b = 40 //
 
 console.log(a, b)
 
