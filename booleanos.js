@@ -41,4 +41,4 @@ console.log("\n")
 console.log(!! ( "|| null || 0 || ")) 
 
 let nome = ''
-console.log(nome || 'desconhecido')//se não tiver um nome, ele irá imprimir o segundo valor, que é desconhecido(se não imprimir um, imprime outro)
+console.log(nome || 'desconhecido')//se não tiver um nome, ele irá imprimir o segundo valor, que é desconhecido(se não imprimir um, imprime outro) 

@@ -1,6 +1,6 @@
 console.log(typeof Object)
 
-class produto {}
+class produto {} //qualquer class é uma função
 console.log(typeof produto)
 
 //TUDO É FUNÇÃO

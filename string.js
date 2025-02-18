@@ -14,7 +14,3 @@ console.log(escola.replace(3, 'e'))//substituir digitos por letras
 console.log('pedro, taina, vitor'.split('/'))//converter para array  
 
 
-let a = 3
-let b = 1
-
-console.log(a-b)

@@ -11,7 +11,7 @@ console.log(produto)
 produto.preco = 3.50
 console.log(produto.preco)
 
-produto.preco = undefined // evite atribui undefined
+produto.preco = undefined // evite atribuir undefined
 console.log(!!produto.preco)
 //delete produto.preco se eu quissese tirar o undefined
 console.log(produto)
