@@ -7,3 +7,19 @@ for (let x in nums) {
     console.log(`${x} = ${nums[x]}`)
 
 }//==igual
+
+for (y in nums){
+    if (y == 5){
+        continue
+    }
+console.log(`${y} = ${nums[y]}`)
+}
+
+
+externo:
+for(a in nums){
+    for(b in nums){
+        if(a == 2 && b == 3) break externo
+        console.log(`Par = ${a}, ${b}`)
+    }
+}
