@@ -1,5 +1,5 @@
 const notas = [7.7, 7.6, 6.6, 4.6, 8.8, 9.5, 3.5, 5.5]
-//sem callback
+//sem callback 
 let notasBaixas1 = []
 for(let i in notas){
     if(notas[i] < 7){

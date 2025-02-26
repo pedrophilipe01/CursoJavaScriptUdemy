@@ -11,4 +11,5 @@ const pedro = {}
     
     let comparaComThisArrow = param => console.log(this === param)
     comparaComThisArrow(global)
-    comparaComThisArrow(module.exports)
+
+

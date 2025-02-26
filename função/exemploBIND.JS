@@ -9,4 +9,4 @@ const falarFunc = pessoa.falar;
 falarFunc()
 
 const falarCorreto = pessoa.falar.bind(pessoa)
-falarCorreto();
+falarCorreto();  
